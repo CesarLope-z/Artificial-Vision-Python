@@ -1,0 +1,6 @@
+opencv-python>=4.8,<6
+numpy>=1.24,<3
+google-genai>=1.0,<2
+python-dotenv>=1.0,<2
+pillow>=10,<13
+
