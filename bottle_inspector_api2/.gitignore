@@ -1,0 +1,13 @@
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos generados
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+reportes/
+*.csv
+
